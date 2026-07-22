@@ -99,7 +99,7 @@ Many cybersecurity tools are difficult for beginners to understand or require ex
 Clone the repository:
 
 ```bash
-git clone https://github.com/abxdev12/cybercode.git
+git clone https://github.com/maisamabbas0323/cybercode.git
 cd cybercode
 ```
 
